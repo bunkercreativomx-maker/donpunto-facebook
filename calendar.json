@@ -10,8 +10,8 @@
       "weekday": "Mié",
       "pillar": "Dolor apps",
       "format": "Imagen 1:1",
-      "imageText": "Un platillo de $100 en Uber te deja $56",
-      "copy": "Si vendes en Uber Eats, DiDi o Rappi al mismo precio que en tu mostrador, estás trabajando casi gratis.\n\nLa comisión de 30%, el IVA de esa comisión y las retenciones del SAT se llevan casi la mitad de cada platillo. Y nadie te lo dice cuando te das de alta.\n\nDon Punto calcula a cuánto subir cada platillo en cada app para que te llegue lo que tú quieres ganar.\n\nPruébalo 15 días gratis 👉 donpunto.com",
+      "imageText": "Un platillo de $100 en la app te deja $56",
+      "copy": "Si vendes en apps de comida a domicilio al mismo precio que en tu mostrador, estás trabajando casi gratis.\n\nLa comisión de 30%, el IVA de esa comisión y las retenciones del SAT se llevan casi la mitad de cada platillo. Y nadie te lo dice cuando te das de alta.\n\nDon Punto calcula a cuánto subir cada platillo en cada app para que te llegue lo que tú quieres ganar.\n\nPruébalo 15 días gratis 👉 donpunto.com",
       "cta": "Prueba gratis",
       "visual": "Taquero real revisando su celular con cara de 'no puede ser', ticket de app en la mano. Número $56 gigante.",
       "hashtags": "#DonPunto #PuntoDeVenta #NegociosDeComida #Restaurantes #Taquerías"
@@ -23,7 +23,7 @@
       "pillar": "Engagement",
       "format": "Imagen 1:1",
       "imageText": "¿En cuántas apps vendes?",
-      "copy": "Pregunta rápida para dueños de negocio de comida 🌮\n\n¿En cuántas apps de delivery estás hoy?\n\n0️⃣ Ninguna, puro mostrador\n1️⃣ Una\n2️⃣ Dos\n3️⃣ Las tres (Uber, DiDi y Rappi)\n\nContesta con el número en comentarios. Te respondemos con un consejo para tu caso.",
+      "copy": "Pregunta rápida para dueños de negocio de comida 🌮\n\n¿En cuántas apps de delivery estás hoy?\n\n0️⃣ Ninguna, puro mostrador\n1️⃣ Una\n2️⃣ Dos\n3️⃣ Tres o más\n\nContesta con el número en comentarios. Te respondemos con un consejo para tu caso.",
       "cta": "Comentario",
       "visual": "Mostrador de lonchería con 3 tablets/celulares de pedidos sonando. Persona real atendiendo.",
       "hashtags": "#DonPunto #PuntoDeVenta #NegociosDeComida #Restaurantes #Taquerías"
@@ -47,7 +47,7 @@
       "pillar": "Producto",
       "format": "Imagen 1:1",
       "imageText": "Pones lo que quieres ganar. Don Punto pone el precio.",
-      "copy": "¿Quieres que te lleguen $100 limpios por tu orden de tacos en DiDi?\n\nEn Don Punto escribes tu costo y lo que quieres recibir, y te dice a cuánto subirlo en cada app. Platillo por platillo.\n\n¿Cambiaste el precio de la carne? Te lo vuelve a calcular.\n\nDeja de adivinar 👉 donpunto.com",
+      "copy": "¿Quieres que te lleguen $100 limpios por tu orden de tacos en la app?\n\nEn Don Punto escribes tu costo y lo que quieres recibir, y te dice a cuánto subirlo en cada app. Platillo por platillo.\n\n¿Cambiaste el precio de la carne? Te lo vuelve a calcular.\n\nDeja de adivinar 👉 donpunto.com",
       "cta": "Visitar sitio",
       "visual": "Manos de dueña con delantal sosteniendo celular con la pantalla de precios por app (captura real).",
       "hashtags": "#DonPunto #PuntoDeVenta #NegociosDeComida #Restaurantes #Taquerías"
@@ -83,7 +83,7 @@
       "pillar": "Producto",
       "format": "Imagen 1:1",
       "imageText": "Sin comprar equipo",
-      "copy": "No necesitas terminal de $15,000 ni computadora nueva.\n\nDon Punto funciona en el celular, la tablet o la compu que ya tienes. Se instala como app en Android, iPhone y computadora, sin pasar por ninguna tienda de apps.\n\nImprime en tu impresora térmica de 58 mm o en una impresora normal.\n\nEmpieza hoy, 15 días gratis 👉 donpunto.com",
+      "copy": "No necesitas terminal de $15,000 ni computadora nueva.\n\nDon Punto funciona en el celular, la tablet o la compu que ya tienes. Se instala como app en tu celular, tablet o computadora, sin pasar por ninguna tienda de apps.\n\nImprime en tu impresora térmica de 58 mm o en una impresora normal.\n\nEmpieza hoy, 15 días gratis 👉 donpunto.com",
       "cta": "Prueba gratis",
       "visual": "Tablet vieja recargada en mostrador de cafetería junto a impresora de tickets.",
       "hashtags": "#DonPunto #PuntoDeVenta #NegociosDeComida #Restaurantes #Taquerías"
@@ -215,7 +215,7 @@
       "pillar": "Dolor apps",
       "format": "Imagen 1:1",
       "imageText": "Vender más no es ganar más",
-      "copy": "Si tus pedidos de app subieron pero tu cuenta del banco no, revisa tus precios.\n\nCon Don Punto ves tus ventas por canal: mostrador, Uber, DiDi y Rappi por separado. Sabes de dónde viene tu dinero de verdad.\n\nEscribe CANAL en comentarios y te mostramos cómo se ve el reporte.",
+      "copy": "Si tus pedidos de app subieron pero tu cuenta del banco no, revisa tus precios.\n\nCon Don Punto ves tus ventas por canal: mostrador y cada app de delivery, por separado. Sabes de dónde viene tu dinero de verdad.\n\nEscribe CANAL en comentarios y te mostramos cómo se ve el reporte.",
       "cta": "Comentario palabra clave",
       "visual": "Repartidor recogiendo bolsas en mostrador, dueña viendo reporte en tablet.",
       "hashtags": "#DonPunto #PuntoDeVenta #NegociosDeComida #Restaurantes #Taquerías"
@@ -250,8 +250,8 @@
       "weekday": "Mar",
       "pillar": "Engagement",
       "format": "Imagen 1:1",
-      "imageText": "¿Libreta, Excel o sistema?",
-      "copy": "Sé honesto 😅 ¿Cómo llevas hoy las ventas de tu negocio?\n\n📒 Libreta\n📊 Excel\n🧠 De memoria\n💻 Un sistema\n\nResponde con el emoji. Sin juzgar, todos empezamos con la libreta.",
+      "imageText": "¿Libreta, hoja de cálculo o sistema?",
+      "copy": "Sé honesto 😅 ¿Cómo llevas hoy las ventas de tu negocio?\n\n📒 Libreta\n📊 Hoja de cálculo\n🧠 De memoria\n💻 Un sistema\n\nResponde con el emoji. Sin juzgar, todos empezamos con la libreta.",
       "cta": "Comentario",
       "visual": "Libreta de ventas real manchada de salsa junto a una tablet. Mostrador.",
       "hashtags": "#DonPunto #PuntoDeVenta #NegociosDeComida #Restaurantes #Taquerías"
@@ -323,7 +323,7 @@
       "pillar": "Producto Pro",
       "format": "Imagen 1:1",
       "imageText": "Clientes que regresan",
-      "copy": "Tu cliente de cada viernes merece algo.\n\nEn Don Punto Pro guardas a tus clientes con su WhatsApp, ves lo que compran y les das recompensas por visita.\n\nUn cliente que regresa vale más que diez que pasan una vez. 🎁\n\nConoce el plan Pro 👉 donpunto.com",
+      "copy": "Tu cliente de cada viernes merece algo.\n\nEn Don Punto Pro guardas a tus clientes con su teléfono, ves lo que compran y les das recompensas por visita.\n\nUn cliente que regresa vale más que diez que pasan una vez. 🎁\n\nConoce el plan Pro 👉 donpunto.com",
       "cta": "Visitar sitio",
       "visual": "Clienta frecuente recibiendo su orden con sonrisa, mesera conocida. Fonda.",
       "hashtags": "#DonPunto #PuntoDeVenta #NegociosDeComida #Restaurantes #Taquerías"
@@ -347,7 +347,7 @@
       "pillar": "Conversión",
       "format": "Imagen 1:1",
       "imageText": "Tu primera venta, hoy",
-      "copy": "Así de rápido empiezas:\n\n1️⃣ Crea tu cuenta con tu correo y el nombre de tu negocio\n2️⃣ Sube tu menú (captúralo, desde Excel o con foto)\n3️⃣ Cobra en mostrador y apps, con corte e IVA separado\n\n15 días gratis. Básico $350 / Pro $799 al mes después.\n\n👉 donpunto.com",
+      "copy": "Así de rápido empiezas:\n\n1️⃣ Crea tu cuenta con tu correo y el nombre de tu negocio\n2️⃣ Sube tu menú (captúralo, desde una hoja de cálculo o con foto)\n3️⃣ Cobra en mostrador y apps, con corte e IVA separado\n\n15 días gratis. Básico $350 / Pro $799 al mes después.\n\n👉 donpunto.com",
       "cta": "Prueba gratis",
       "visual": "Taquero abriendo la cortina de su local en la mañana, tablet en mano.",
       "hashtags": "#DonPunto #PuntoDeVenta #NegociosDeComida #Restaurantes #Taquerías"

@@ -3,7 +3,7 @@ Ventana: 2026-10-21 → 2026-11-19 · Idioma: español MX · Hora sugerida: 12:3
 
 | # | Fecha | Pilar | Formato | Texto en imagen | CTA |
 |---|---|---|---|---|---|
-| 1 | Mié 10-21 | Dolor apps | Imagen 1:1 | Un platillo de $100 en Uber te deja $56 | Prueba gratis |
+| 1 | Mié 10-21 | Dolor apps | Imagen 1:1 | Un platillo de $100 en la app te deja $56 | Prueba gratis |
 | 2 | Jue 10-22 | Engagement | Imagen 1:1 | ¿En cuántas apps vendes? | Comentario |
 | 3 | Vie 10-23 | Educación | Carrusel 4 (1:1) | Lo que la app se lleva y no ves | Guardar |
 | 4 | Sáb 10-24 | Producto | Imagen 1:1 | Pones lo que quieres ganar. Don Punto pone el precio. | Visitar sitio |
@@ -23,7 +23,7 @@ Ventana: 2026-10-21 → 2026-11-19 · Idioma: español MX · Hora sugerida: 12:3
 | 18 | Sáb 11-07 | Dolor apps | Imagen 1:1 | Vender más no es ganar más | Comentario palabra clave |
 | 19 | Dom 11-08 | Comunidad | Imagen 1:1 | El negocio no descansa, pero tú sí deberías | Comentario |
 | 20 | Lun 11-09 | Producto | Imagen 1:1 | Hecho para la hora pico | Prueba gratis |
-| 21 | Mar 11-10 | Engagement | Imagen 1:1 | ¿Libreta, Excel o sistema? | Comentario |
+| 21 | Mar 11-10 | Engagement | Imagen 1:1 | ¿Libreta, hoja de cálculo o sistema? | Comentario |
 | 22 | Mié 11-11 | Confianza | Imagen 1:1 | Reportes que entiendes en 10 segundos | Compartir |
 | 23 | Jue 11-12 | Educación | Carrusel 4 (1:1) | 3 señales de que tu negocio pierde dinero sin saberlo | Guardar |
 | 24 | Vie 11-13 | Producto Pro | Imagen 1:1 | ¿Ya tienes empleados? Cada quien con su PIN | Visitar sitio |
@@ -35,9 +35,9 @@ Ventana: 2026-10-21 → 2026-11-19 · Idioma: español MX · Hora sugerida: 12:3
 | 30 | Jue 11-19 | Conversión | Imagen 1:1 | Deja de adivinar cuánto ganas | Prueba gratis |
 
 ## Día 1 · Mié 2026-10-21 · Dolor apps
-**Imagen:** Un platillo de $100 en Uber te deja $56
+**Imagen:** Un platillo de $100 en la app te deja $56
 
-Si vendes en Uber Eats, DiDi o Rappi al mismo precio que en tu mostrador, estás trabajando casi gratis.
+Si vendes en apps de comida a domicilio al mismo precio que en tu mostrador, estás trabajando casi gratis.
 
 La comisión de 30%, el IVA de esa comisión y las retenciones del SAT se llevan casi la mitad de cada platillo. Y nadie te lo dice cuando te das de alta.
 
@@ -59,7 +59,7 @@ Pregunta rápida para dueños de negocio de comida 🌮
 0️⃣ Ninguna, puro mostrador
 1️⃣ Una
 2️⃣ Dos
-3️⃣ Las tres (Uber, DiDi y Rappi)
+3️⃣ Tres o más
 
 Contesta con el número en comentarios. Te respondemos con un consejo para tu caso.
 
@@ -88,7 +88,7 @@ _Visual:_ Carrusel: cada tarjeta = foto real de un taco + barra que se va 'comie
 ## Día 4 · Sáb 2026-10-24 · Producto
 **Imagen:** Pones lo que quieres ganar. Don Punto pone el precio.
 
-¿Quieres que te lleguen $100 limpios por tu orden de tacos en DiDi?
+¿Quieres que te lleguen $100 limpios por tu orden de tacos en la app?
 
 En Don Punto escribes tu costo y lo que quieres recibir, y te dice a cuánto subirlo en cada app. Platillo por platillo.
 
@@ -133,7 +133,7 @@ _Visual:_ Dueño cansado contando billetes en mostrador de noche, luz cálida, c
 
 No necesitas terminal de $15,000 ni computadora nueva.
 
-Don Punto funciona en el celular, la tablet o la compu que ya tienes. Se instala como app en Android, iPhone y computadora, sin pasar por ninguna tienda de apps.
+Don Punto funciona en el celular, la tablet o la compu que ya tienes. Se instala como app en tu celular, tablet o computadora, sin pasar por ninguna tienda de apps.
 
 Imprime en tu impresora térmica de 58 mm o en una impresora normal.
 
@@ -297,7 +297,7 @@ _Visual:_ Dueño joven de food truck sonriendo con tablet en la ventanilla.
 
 Si tus pedidos de app subieron pero tu cuenta del banco no, revisa tus precios.
 
-Con Don Punto ves tus ventas por canal: mostrador, Uber, DiDi y Rappi por separado. Sabes de dónde viene tu dinero de verdad.
+Con Don Punto ves tus ventas por canal: mostrador y cada app de delivery, por separado. Sabes de dónde viene tu dinero de verdad.
 
 Escribe CANAL en comentarios y te mostramos cómo se ve el reporte.
 
@@ -334,12 +334,12 @@ Pruébalo 15 días gratis 👉 donpunto.com
 _Visual:_ Taquería llena de noche, taquero cortando pastor, cajera cobrando en tablet.
 
 ## Día 21 · Mar 2026-11-10 · Engagement
-**Imagen:** ¿Libreta, Excel o sistema?
+**Imagen:** ¿Libreta, hoja de cálculo o sistema?
 
 Sé honesto 😅 ¿Cómo llevas hoy las ventas de tu negocio?
 
 📒 Libreta
-📊 Excel
+📊 Hoja de cálculo
 🧠 De memoria
 💻 Un sistema
 
@@ -423,7 +423,7 @@ _Visual:_ Mano sosteniendo celular con la calculadora de la landing (captura rea
 
 Tu cliente de cada viernes merece algo.
 
-En Don Punto Pro guardas a tus clientes con su WhatsApp, ves lo que compran y les das recompensas por visita.
+En Don Punto Pro guardas a tus clientes con su teléfono, ves lo que compran y les das recompensas por visita.
 
 Un cliente que regresa vale más que diez que pasan una vez. 🎁
 
@@ -455,7 +455,7 @@ _Visual:_ Dueña con lentes leyendo su celular en mostrador, signos de pregunta 
 Así de rápido empiezas:
 
 1️⃣ Crea tu cuenta con tu correo y el nombre de tu negocio
-2️⃣ Sube tu menú (captúralo, desde Excel o con foto)
+2️⃣ Sube tu menú (captúralo, desde una hoja de cálculo o con foto)
 3️⃣ Cobra en mostrador y apps, con corte e IVA separado
 
 15 días gratis. Básico $350 / Pro $799 al mes después.
