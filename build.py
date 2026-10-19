@@ -29,7 +29,7 @@ P = [
   "Comentario", "Dueño cansado contando billetes en mostrador de noche, luz cálida, cajón abierto."),
  ("Producto", "Imagen 1:1",
   "Sin comprar equipo",
-  "No necesitas terminal de $15,000 ni computadora nueva.\n\nDon Punto funciona en el celular, la tablet o la compu que ya tienes. Se instala como app en tu celular, tablet o computadora, sin pasar por ninguna tienda de apps.\n\nImprime en tu impresora térmica de 58 mm o en una impresora normal.\n\nEmpieza hoy, 15 días gratis 👉 donpunto.com",
+  "No necesitas terminal de $15,000 ni computadora nueva.\n\nDon Punto funciona en el celular, la tablet o la compu que ya tienes. Se instala como app en tu celular, tablet o computadora, sin pasar por ninguna tienda de apps.\n\nImprime en tu impresora térmica de 58 mm o en una impresora normal.\n\nRegístrate y pruébalo 15 días gratis 👉 donpunto.com",
   "Prueba gratis", "Tablet vieja recargada en mostrador de cafetería junto a impresora de tickets."),
  ("Comunidad", "Imagen 1:1",
   "Domingo de antojo",
@@ -101,7 +101,7 @@ P = [
   "Visitar sitio", "Equipo de 3 personas en cocina abierta de restaurante pequeño, una cobrando."),
  ("Producto Pro", "Imagen 1:1",
   "El inventario que se descuenta solo",
-  "Vendes una orden de tacos y Don Punto resta la tortilla, la carne y la salsa de tu inventario.\n\nCuando algo se está acabando, te llega un aviso al celular. Ya no te enteras del faltante a media hora pico.\n\nEscribe INVENTARIO en comentarios y te contamos cómo se configura.",
+  "Con el plan Pro, vendes una orden de tacos y Don Punto resta la tortilla, la carne y la salsa de tu inventario.\n\nCuando algo se está acabando, te llega un aviso al celular. Ya no te enteras del faltante a media hora pico.\n\nEscribe INVENTARIO en comentarios y te contamos cómo se configura.",
   "Comentario palabra clave", "Bodeguita/refri de negocio con insumos, dueño revisando celular con alerta."),
  ("Comunidad", "Imagen 1:1",
   "El negocio no descansa, pero tú sí deberías",
@@ -113,7 +113,17 @@ P = [
   "Visitar sitio", "Clienta frecuente recibiendo su orden con sonrisa, mesera conocida. Fonda."),
  ("Dolor apps", "Reel / Imagen 1:1 + 9:16",
   "Haz la cuenta con tu platillo",
-  "Entra a donpunto.com y usa la calculadora de apps (gratis, sin registrarte):\n\n1. Pon lo que cuesta tu platillo en mostrador\n2. Elige la comisión de tu app\n3. Te dice cuánto te queda y a cuánto subirlo\n\nHazlo y cuéntanos en comentarios cuánto te salió. 👇",
+  "¿Cuánto te deja de verdad tu platillo en la app? Haz la cuenta.
+
+Dentro de Don Punto tienes la calculadora de apps:
+
+1. Pon lo que cuesta tu platillo en mostrador
+2. Elige la comisión de tu app
+3. Te dice cuánto te queda y a cuánto subirlo
+
+Regístrate y pruébalo 15 días gratis 👉 donpunto.com
+
+Y cuéntanos en comentarios cuánto te salió. 👇",
   "Comentario", "Mano sosteniendo celular con la calculadora de la landing (captura real), platillo al fondo."),
  ("Confianza", "Imagen 1:1",
   "Preguntas que nos hacen",
