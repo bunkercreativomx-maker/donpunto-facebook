@@ -113,17 +113,7 @@ P = [
   "Visitar sitio", "Clienta frecuente recibiendo su orden con sonrisa, mesera conocida. Fonda."),
  ("Dolor apps", "Reel / Imagen 1:1 + 9:16",
   "Haz la cuenta con tu platillo",
-  "¿Cuánto te deja de verdad tu platillo en la app? Haz la cuenta.
-
-Dentro de Don Punto tienes la calculadora de apps:
-
-1. Pon lo que cuesta tu platillo en mostrador
-2. Elige la comisión de tu app
-3. Te dice cuánto te queda y a cuánto subirlo
-
-Regístrate y pruébalo 15 días gratis 👉 donpunto.com
-
-Y cuéntanos en comentarios cuánto te salió. 👇",
+  "¿Cuánto te deja de verdad tu platillo en la app? Haz la cuenta.\n\nDentro de Don Punto tienes la calculadora de apps:\n\n1. Pon lo que cuesta tu platillo en mostrador\n2. Elige la comisión de tu app\n3. Te dice cuánto te queda y a cuánto subirlo\n\nRegístrate y pruébalo 15 días gratis 👉 donpunto.com\n\nY cuéntanos en comentarios cuánto te salió. 👇",
   "Comentario", "Mano sosteniendo celular con la calculadora de la landing (captura real), platillo al fondo."),
  ("Confianza", "Imagen 1:1",
   "Preguntas que nos hacen",

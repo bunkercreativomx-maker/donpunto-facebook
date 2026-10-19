@@ -137,7 +137,7 @@ Don Punto funciona en el celular, la tablet o la compu que ya tienes. Se instala
 
 Imprime en tu impresora térmica de 58 mm o en una impresora normal.
 
-Empieza hoy, 15 días gratis 👉 donpunto.com
+Regístrate y pruébalo 15 días gratis 👉 donpunto.com
 
 #DonPunto #PuntoDeVenta #NegociosDeComida #Restaurantes #Taquerías
 
@@ -393,7 +393,7 @@ _Visual:_ Equipo de 3 personas en cocina abierta de restaurante pequeño, una co
 ## Día 25 · Sáb 2026-11-14 · Producto Pro
 **Imagen:** El inventario que se descuenta solo
 
-Vendes una orden de tacos y Don Punto resta la tortilla, la carne y la salsa de tu inventario.
+Con el plan Pro, vendes una orden de tacos y Don Punto resta la tortilla, la carne y la salsa de tu inventario.
 
 Cuando algo se está acabando, te llega un aviso al celular. Ya no te enteras del faltante a media hora pico.
 
@@ -406,13 +406,17 @@ _Visual:_ Bodeguita/refri de negocio con insumos, dueño revisando celular con a
 ## Día 26 · Dom 2026-11-15 · Dolor apps
 **Imagen:** Haz la cuenta con tu platillo
 
-Entra a donpunto.com y usa la calculadora de apps (gratis, sin registrarte):
+¿Cuánto te deja de verdad tu platillo en la app? Haz la cuenta.
+
+Dentro de Don Punto tienes la calculadora de apps:
 
 1. Pon lo que cuesta tu platillo en mostrador
 2. Elige la comisión de tu app
 3. Te dice cuánto te queda y a cuánto subirlo
 
-Hazlo y cuéntanos en comentarios cuánto te salió. 👇
+Regístrate y pruébalo 15 días gratis 👉 donpunto.com
+
+Y cuéntanos en comentarios cuánto te salió. 👇
 
 #DonPunto #PuntoDeVenta #NegociosDeComida #Restaurantes #Taquerías
 
