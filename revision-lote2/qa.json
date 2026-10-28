@@ -1,0 +1,223 @@
+{
+  "tavo": {
+    "duration": 28.9,
+    "bytes": 24842288,
+    "sha256": "89270e228f78693df50648b012b5abcf065185b66438bc2a4ab77f94f7ddbd73",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "mean_volume_db": -18.6,
+    "decode_ok": true,
+    "black_intervals": 0
+  },
+  "chela": {
+    "duration": 29.9,
+    "bytes": 42109261,
+    "sha256": "a1d0e243274c1d1e3d1d3b2af92cb09afcb909f920dd821921c00e915480d9ee",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "mean_volume_db": -18.3,
+    "decode_ok": true,
+    "black_intervals": 0
+  },
+  "nacho": {
+    "duration": 29.9,
+    "bytes": 24052933,
+    "sha256": "db31c80143daf1d646b6069485ae55005948c73a2eaa1e9000d9ae3297e43900",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "mean_volume_db": -19.1,
+    "decode_ok": true,
+    "black_intervals": 0
+  },
+  "paty": {
+    "duration": 30.9,
+    "bytes": 20484064,
+    "sha256": "bc9a84b25e80a9cc755baf5ec727ca07b9d1ef032f0b31ce2fd490dae4a0ac94",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "mean_volume_db": -19.6,
+    "decode_ok": true,
+    "black_intervals": 0
+  },
+  "memo": {
+    "duration": 30.9,
+    "bytes": 21229400,
+    "sha256": "c960b2ec8a81d9cb50f035726cf14a271eada04af8e3d319a2d48f96311572f8",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "mean_volume_db": -18.0,
+    "decode_ok": true,
+    "black_intervals": 0
+  },
+  "chema": {
+    "duration": 30.9,
+    "bytes": 24645580,
+    "sha256": "87d618ecb7fa61d5fd11bfb7a4375a2a16e99df1b5894d0a421c08d791b43c96",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "mean_volume_db": -17.9,
+    "decode_ok": true,
+    "black_intervals": 0
+  },
+  "dani": {
+    "duration": 27.866667,
+    "bytes": 15832354,
+    "sha256": "7a0090578837c470a3dc3bdeef396d7d0111cb4f33044a12c70738770a52f7e5",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "mean_volume_db": -18.0,
+    "decode_ok": true,
+    "black_intervals": 0
+  },
+  "tono": {
+    "duration": 28.866667,
+    "bytes": 18613528,
+    "sha256": "7b10ca6053eba0cb017e65bc6d31489c3a329cc9ce9dc33470b15b78733df058",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "mean_volume_db": -21.5,
+    "decode_ok": true,
+    "black_intervals": 0
+  },
+  "lucy": {
+    "duration": 27.866667,
+    "bytes": 16284506,
+    "sha256": "5370ba476d410be9c62130bf1c1781ccd5370cd1a639f3bd5078fb5fcca77359",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "mean_volume_db": -20.1,
+    "decode_ok": true,
+    "black_intervals": 0
+  },
+  "hugo": {
+    "duration": 28.866667,
+    "bytes": 16207423,
+    "sha256": "8dcca62d44319c81364eab5572ae999f0ab46014a4c288e1657d9d8e82a03df7",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "mean_volume_db": -19.4,
+    "decode_ok": true,
+    "black_intervals": 0
+  },
+  "kevin": {
+    "duration": 28.866667,
+    "bytes": 17712345,
+    "sha256": "62b37106a93f8787ee78666f3510ee451506468c7ee559007f795d8ba4f78086",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "mean_volume_db": -19.9,
+    "decode_ok": true,
+    "black_intervals": 0
+  },
+  "ale": {
+    "duration": 28.866667,
+    "bytes": 15825716,
+    "sha256": "927a71f7505d43202a725140edab8bfecaa3f628b6158bcaefd5438fdc8c9fee",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "mean_volume_db": -19.0,
+    "decode_ok": true,
+    "black_intervals": 0
+  },
+  "rocio": {
+    "duration": 29.866667,
+    "bytes": 14745675,
+    "sha256": "84c4c0b6e0b58dce9c2cd87fbca6acd6969b88ba7acf3aebd6eb9bc6c8481d01",
+    "codecs": [
+      "h264",
+      "aac"
+    ],
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "mean_volume_db": -19.3,
+    "decode_ok": true,
+    "black_intervals": 0
+  }
+}
