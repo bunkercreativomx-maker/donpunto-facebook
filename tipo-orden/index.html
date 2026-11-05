@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Don Punto · Tipo de orden + orden arriba en celular (revisión)</title>
+<style>
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;background:#f6f7f4;color:#14201a}
+main{max-width:1100px;margin:auto;padding:24px 16px 80px}
+h1{font-size:26px;margin:0 0 6px}h2{font-size:20px;margin:36px 0 8px}
+p,li{line-height:1.5}.muted{color:#5b6b62;font-size:14px}
+.card{background:#fff;border:1px solid #dfe5df;border-radius:16px;padding:16px;margin:12px 0}
+img{max-width:100%;border-radius:10px;border:1px solid #e3e7e3;display:block}
+.tickets{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px;align-items:start}
+.tickets figure{margin:0;background:#fff;border:1px solid #dfe5df;border-radius:12px;padding:10px}
+figcaption{font-weight:700;font-size:14px;margin-bottom:8px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:14px}@media(max-width:700px){.two{grid-template-columns:1fr}}
+.ok{color:#0e6f4d;font-weight:700}
+</style></head><body><main>
+<h1>Tipo de orden en ticket y comanda + orden arriba en celular</h1>
+<p class="muted">Versión de prueba con la cuenta demo (Taquería Don Chuy). Todavía <b>NO</b> está en donpunto.com: se publica cuando digas «súbelo».</p>
+
+<div class="card">
+<b>Qué cambia</b>
+<ul>
+<li><b>Tienda:</b> antes de cobrar o guardar hay que elegir <b>COMER AQUÍ</b> o <b>PARA LLEVAR</b>. Si es comer aquí, sale el campo <b>Mesa #</b> (opcional).</li>
+<li><b>DiDi:</b> el <b>número de pedido</b> es obligatorio (ej. 12 → sale «DIDI #12»).</li>
+<li><b>Uber y Rappi:</b> el <b>nombre del cliente</b> es obligatorio (sale «UBER · JUAN PÉREZ»).</li>
+<li>Va en grande arriba del <b>ticket</b> y de la <b>comanda de cocina</b>, también al reimprimir y por la impresora Bluetooth.</li>
+<li>Se guarda en la venta: en <b>Tickets</b> sale la etiqueta y puedes buscar «#12», «mesa 4» o «para llevar». Las cuentas abiertas también la guardan, y al reanudarlas regresa lo que se eligió.</li>
+<li>Los pedidos en línea se marcan solos: «EN LÍNEA · PARA RECOGER / A DOMICILIO».</li>
+<li>La descarga de reportes (Pro) trae la columna nueva «Tipo de orden». El corte de caja no cambia.</li>
+<li><b>Celular y tablet:</b> la <b>Orden Actual</b> va arriba de los productos (debajo de Tienda/Uber/DiDi/Rappi). Si bajas a ver productos, sale el botón verde «Ver orden (3) · $89» que te regresa a la orden. En computadora queda igual.</li>
+</ul>
+</div>
+
+<h2>1. Tickets y comandas (como salen impresos, 58 mm)</h2>
+<div class="tickets">
+<figure><figcaption>Comer aquí · Mesa 4</figcaption><img src="ticket-aqui.png" alt=""></figure>
+<figure><figcaption>Para llevar</figcaption><img src="ticket-llevar.png" alt=""></figure>
+<figure><figcaption>DiDi #12</figcaption><img src="ticket-didi.png" alt=""></figure>
+<figure><figcaption>Uber · Juan Pérez</figcaption><img src="ticket-uber.png" alt=""></figure>
+<figure><figcaption>Rappi · Ana López</figcaption><img src="ticket-rappi.png" alt=""></figure>
+</div>
+
+<h2>2. Celular y tablet: la orden arriba</h2>
+<div class="two">
+<div class="card"><b>Celular (página completa)</b><img src="cel-full.jpg" alt=""></div>
+<div class="card"><b>Tablet (página completa)</b><img src="tablet-full.jpg" alt=""></div>
+</div>
+<div class="card"><b>Celular: abajo en los productos aparece «Ver orden»</b><img src="cel-3-productos.jpg" alt="" style="max-width:390px"></div>
+
+<h2>3. Computadora (queda igual, con los botones nuevos)</h2>
+<div class="card"><img src="compu-2-orden.jpg" alt=""></div>
+<div class="card"><b>Si no eligen el tipo de orden, no deja FINALIZAR y dice qué falta</b><img src="pos-error.jpg" alt=""></div>
+
+<h2>4. Cuentas abiertas y búsqueda</h2>
+<div class="card"><b>Cuenta guardada «COMER AQUÍ · MESA 7»</b><img src="abiertos.jpg" alt=""></div>
+<div class="card"><b>Tickets: buscar «#12» encuentra el pedido de DiDi</b><img src="historial.jpg" alt=""></div>
+
+<h2>Pruebas que pasaron</h2>
+<ul>
+<li class="ok">Sin elegir el tipo de orden → avisa y no cobra (en Tienda, DiDi, Uber y Rappi)</li>
+<li class="ok">Los 5 tipos salen en el ticket y en la comanda</li>
+<li class="ok">Cuenta abierta mesa 7 → guardada → reanudada con «Comer aquí» y mesa 7</li>
+<li class="ok">Búsqueda «#12» en Tickets</li>
+<li class="ok">Sin desbordes a lo ancho en celular (390 px), tablet (820 px) ni compu (1440 px)</li>
+</ul>
+<p class="muted">Pendiente después de publicar: que lo pruebes en tu celular con tu impresora.</p>
+</main></body></html>
