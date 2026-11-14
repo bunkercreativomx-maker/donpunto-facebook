@@ -1,0 +1,11 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Don Punto · Catálogo simplificado</title>
+<style>body{font-family:system-ui,sans-serif;margin:0;background:#f4f5f2;color:#0d100e}header{padding:20px;max-width:1500px;margin:auto}h1{margin:0 0 6px;font-size:22px}p{margin:4px 0;color:#444;font-size:14px}.tabs{display:flex;gap:8px;margin:12px 0}.tabs button{padding:8px 14px;border-radius:10px;border:1px solid #ccc;background:#fff;font-weight:700;cursor:pointer}.tabs button.on{background:#16895f;color:#fff;border-color:#16895f}.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;padding:0 20px 40px;max-width:1500px;margin:auto;align-items:start}.grid h2{font-size:15px;margin:0 0 8px}.grid img{width:100%;border:1px solid #ddd;border-radius:12px;background:#fff}.cel img{max-width:390px}@media(max-width:800px){.grid{grid-template-columns:1fr}}</style></head><body>
+<header><h1>Catálogo simplificado</h1>
+<p>✅ Se quitó la lista larga «Asignación de Productos».</p>
+<p>✅ Solo aparecen los <b>productos sin categoría</b>: eliges su categoría y desaparecen de la lista.</p>
+<p>✅ Buscador para <b>cambiar la categoría</b> de cualquier producto.</p>
+<p>✅ Cada grupo de modificadores dice <b>«Se aplica a: …»</b>, o te avisa si todavía no tiene categoría.</p>
+<p>Datos reales de La Salita de Siempre. En la captura de «Antes» del celular solo sale el principio, porque la página medía más de 21 mil píxeles.</p>
+<div class="tabs"><button class="on" onclick="s('pc',this)">Computadora</button><button onclick="s('cel',this)">Celular</button></div></header>
+<div class="grid" id="g"></div>
+<script>function s(v,b){document.querySelectorAll('.tabs button').forEach(x=>x.classList.remove('on'));b.classList.add('on');document.getElementById('g').className='grid '+v;document.getElementById('g').innerHTML=`<div><h2>Antes (en vivo hoy)</h2><img src="antes-${v}.webp"></div><div><h2>Después</h2><img src="despues-${v}.webp"></div>`}s('pc',document.querySelector('.tabs button'))</script></body></html>
