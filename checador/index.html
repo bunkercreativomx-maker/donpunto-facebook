@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Revisión · Checador (registro de jornada) · Don Punto</title>
+<style>
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;background:#f6f7f4;color:#14181a}
+main{max-width:1100px;margin:0 auto;padding:28px 18px 60px}
+h1{font-size:28px;margin:0 0 6px}h2{font-size:20px;margin:36px 0 8px}
+p,li{line-height:1.55}.muted{color:#5b6461;font-size:14px}
+.card{background:#fff;border:1px solid #e3e6e1;border-radius:18px;padding:16px;margin-top:12px}
+img{max-width:100%;border-radius:12px;border:1px solid #e3e6e1;display:block}
+.row{display:grid;gap:14px;grid-template-columns:1fr}@media(min-width:800px){.row.two{grid-template-columns:1fr 1fr}}
+.cap{font-size:13px;color:#5b6461;margin:6px 2px 0}
+a.btn{display:inline-block;background:#0e6f4d;color:#fff;text-decoration:none;font-weight:700;padding:10px 16px;border-radius:999px;margin:4px 6px 0 0}
+.pill{display:inline-block;background:#fff3cc;color:#6b4e00;border-radius:999px;padding:3px 10px;font-size:13px;font-weight:600}
+</style></head><body><main>
+<h1>Checador · registro electrónico de jornada</h1>
+<p class="muted">Don Punto · revisión antes de publicar · todos los planes (A1) · checan todos los del equipo (B1)</p>
+<span class="pill">Aún NO está en donpunto.com — se publica cuando digas «súbelo»</span>
+
+<h2>Qué hace</h2>
+<div class="card"><ul>
+<li><b>Checar entrada / salida</b>: botón en el menú lateral y en la pantalla «¿Quién eres?». El empleado pone su PIN y toca ENTRADA o SALIDA (se resalta la que le toca). No abre la caja.</li>
+<li><b>La hora la pone el servidor</b>, no el celular. Los registros <b>no se pueden editar ni borrar</b> (ni con la cuenta del dueño): lo bloquea la base de datos.</li>
+<li><b>Sin internet</b> se guarda en el equipo y se sube solo al volver; queda marcado «sin conexión».</li>
+<li><b>Checan todos</b>: cajeros, meseros, gerentes y los meseros para propinas (botón «PIN para checar»; ese PIN no entra al sistema). No cuentan en el límite del plan Básico.</li>
+<li><b>Reporte en Equipo</b>: por semana o mes, por empleado, horas por día y por semana, <b>en rojo si pasa del máximo legal</b> (48 h en 2026 → 46 h en 2027 → 40 h en 2030).</li>
+<li><b>Correcciones</b> solo del dueño, siempre con motivo; el original se conserva y todo sale en la <b>bitácora</b>.</li>
+<li><b>Hoja de cálculo</b> (jornada, totales por semana y bitácora completa) e <b>Imprimir / PDF</b> para la inspección o el contador.</li>
+<li><b>Hoja de acuerdo</b> para que firme cada empleado (es lo que hace que el registro valga como prueba).</li>
+<li>Sin huella ni foto de la cara → sin datos biométricos.</li>
+</ul></div>
+
+<h2>1. Botón en el menú</h2>
+<div class="card"><img src="R-menu-d.png" alt="Menú con botón Checar entrada / salida"><p class="cap">Debajo de quién está usando la caja. También sale en el tour de bienvenida.</p></div>
+
+<h2>2. Checar</h2>
+<div class="row two">
+<div class="card"><img src="7-bloqueo-d.png" alt="Pantalla ¿Quién eres? con botón Solo checar"><p class="cap">Pantalla de bloqueo: «Solo checar entrada / salida».</p></div>
+<div class="card"><img src="2-elige-d.png" alt="Elegir entrada o salida"><p class="cap">Después del PIN: ENTRADA o SALIDA.</p></div>
+</div>
+<div class="card"><img src="3-ok-d.png" alt="Entrada registrada"><p class="cap">Confirmación con la hora del sistema; se cierra sola.</p></div>
+
+<h2>3. Reporte (Equipo)</h2>
+<p class="muted">Semana de ejemplo: Lupita y Toño pasan de 48 h (rojo), a Marcos le falta una salida («Falta +»), una entrada sin conexión y una corrección en la bitácora.</p>
+<div class="card"><img src="R-reporte-d.png" alt="Reporte en computadora"></div>
+<div class="row two">
+<div class="card"><img src="R-reporte-m.png" alt="Reporte en celular"><p class="cap">Celular.</p></div>
+<div class="card"><img src="5-corregir-d.png" alt="Corregir checada"><p class="cap">Corregir: cambiar hora o anular, con motivo obligatorio.</p></div>
+</div>
+
+<h2>4. Documentos</h2>
+<div class="card">
+<a class="btn" href="reporte.pdf" target="_blank">Ver reporte PDF</a>
+<a class="btn" href="acuerdo.pdf" target="_blank">Ver hoja de acuerdo</a>
+<p class="cap">La hoja de acuerdo es un formato de referencia (lo dice al pie): que la revise un contador o abogado laboral, sobre todo cuando salgan las reglas de la STPS.</p>
+</div>
+</main></body></html>
