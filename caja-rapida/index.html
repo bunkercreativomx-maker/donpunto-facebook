@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Don Punto · Modo caja rápida (revisión)</title>
+<style>
+body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:#f4f6f3;color:#0d100e}
+main{max-width:1320px;margin:0 auto;padding:24px 16px 60px}
+h1{font-size:28px;margin:0 0 6px}p.lead{margin:0 0 20px;color:#475048}
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 14px}
+.tabs button{border:1px solid #cfd6cf;background:#fff;border-radius:999px;padding:9px 16px;font-weight:700;cursor:pointer;font-size:14px}
+.tabs button.on{background:#0e6f4d;color:#fff;border-color:#0e6f4d}
+figure{margin:0;display:none}figure.on{display:block}
+figure img{width:100%;height:auto;border-radius:14px;border:1px solid #d6dcd6;box-shadow:0 12px 32px -18px rgba(13,16,14,.35);background:#fff}
+figcaption{margin:10px 2px 0;color:#475048;font-size:14px}
+ul{line-height:1.6;color:#2b322d;padding-left:20px}
+</style></head><body><main>
+<h1>Modo caja rápida</h1>
+<p class="lead">Es opcional y se prende por equipo (en Ajustes o con el botón «Caja rápida» del Punto de venta). Solo aplica en tablet acostada o compu; en celular el POS se ve igual que hoy. Las capturas son de la cuenta demo y usan los colores de Don Punto.</p>
+<div class="tabs" id="t">
+<button class="on" data-f="a">Antes (hoy)</button>
+<button data-f="b">Caja rápida · tablet 1280</button>
+<button data-f="c">Tablet 1024</button>
+<button data-f="d">Compu 1440</button>
+<button data-f="e">Menú ☰ abierto</button>
+</div>
+<figure id="a" class="on"><img src="antes-1280.webp" alt="POS actual"><figcaption>Hoy en tablet 1280×800: el título, la barra de turno y las categorías van arriba, el ticket se corta abajo y hay que hacer scroll.</figcaption></figure>
+<figure id="b"><img src="q-1280.webp" alt="Caja rápida 1280"><figcaption>Caja rápida: todo cabe en una sola pantalla. Los productos están en botones grandes (5 columnas) y las categorías abajo. El ticket queda fijo con COMER AQUÍ/PARA LLEVAR, forma de pago, total, GUARDAR y COBRAR. Cliente, descuento y propina están en una fila que se abre al tocarla.</figcaption></figure>
+<figure id="c"><img src="q-1024.webp" alt="Caja rápida 1024"><figcaption>Tablet chica 1024×768: 4 columnas, todo visible.</figcaption></figure>
+<figure id="d"><img src="q-1440.webp" alt="Caja rápida 1440"><figcaption>Compu 1440×900.</figcaption></figure>
+<figure id="e"><img src="menu.webp" alt="Menú abierto"><figcaption>Las secciones (Tickets, Reportes, etc.) se abren con el ☰ y se cierran solas al elegir una.</figcaption></figure>
+<h2>Qué cambia</h2>
+<ul>
+<li>Desaparecen el título «Punto de venta» y la barra grande del turno. El turno queda en chiquito arriba (Corte X, retiro/depósito y Cerrar turno).</li>
+<li>Los productos van en botones grandes con el precio en chiquito abajo del nombre. Al dueño le siguen saliendo «Agregar producto», el bote de basura y el arrastrar para reordenar.</li>
+<li>Las categorías van abajo, como pestañas que se acomodan en renglones (sin scroll de lado).</li>
+<li>El ticket va a la derecha. Arriba, una lista para elegir dónde se vendió (Tienda o la app). «ABIERTOS» abre las cuentas abiertas y el botón ⋮ prende o apaga la impresión del ticket y de la comanda.</li>
+<li>Se cobra igual que hoy: COBRAR hace lo mismo que FINALIZAR, con las mismas validaciones de mesa, mesero y pedido.</li>
+</ul>
+</main>
+<script>
+document.querySelectorAll('#t button').forEach(b=>b.onclick=()=>{document.querySelectorAll('#t button').forEach(x=>x.classList.toggle('on',x===b));document.querySelectorAll('figure').forEach(f=>f.classList.toggle('on',f.id===b.dataset.f));});
+</script>
+</body></html>
